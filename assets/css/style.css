@@ -59,6 +59,9 @@ nav ul li a:hover,
 footer ul li a:hover {
   text-decoration: underline;
 }
+#active {
+  text-decoration: underline;
+}
 /* Main */
 main {
   text-align: center;
